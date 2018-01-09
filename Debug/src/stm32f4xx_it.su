@@ -1,0 +1,14 @@
+can.h:207:13:CARME_CAN_Write_Register	16	static
+can.h:217:16:CARME_CAN_Read_Register	16	static
+stm32f4xx_it.c:68:6:NMI_Handler	4	static
+stm32f4xx_it.c:78:6:HardFault_Handler	8	static
+stm32f4xx_it.c:90:6:MemManage_Handler	4	static
+stm32f4xx_it.c:103:6:BusFault_Handler	8	static
+stm32f4xx_it.c:115:6:UsageFault_Handler	8	static
+stm32f4xx_it.c:127:6:SVC_Handler	4	static
+stm32f4xx_it.c:137:6:DebugMon_Handler	4	static
+stm32f4xx_it.c:147:6:PendSV_Handler	4	static
+stm32f4xx_it.c:157:6:SysTick_Handler	8	static
+stm32f4xx_it.c:168:6:EXTI0_IRQHandler	8	static
+stm32f4xx_it.c:184:6:EXTI9_5_IRQHandler	8	static
+stm32f4xx_it.c:206:6:EXTI15_10_IRQHandler	8	static
