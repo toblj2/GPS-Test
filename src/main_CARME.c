@@ -40,7 +40,7 @@
 /*----- Header-Files -------------------------------------------------------*/
 #include <stm32f4xx.h>				/* Processor STM32F407IG				*/
 #include "carme.h"					/* CARME Module							*/
-#include "uart.h"					/* Carme-UART Module					*/
+//#include "uart.h"					/* Carme-UART Module					*/
 #include "lcd.h"					/* Carme-LCD Module						*/
 #include "stm32f4xx_usart.h"		/* UART STM32F4 Module					*/
 #include "i2c.h"					/* Carme-I2C Module						*/
